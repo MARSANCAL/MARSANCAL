@@ -2,7 +2,7 @@
 
 # 👨‍💻 ¿Quién soy?
 
-## Me llamo Matias Sandoval, Ingeniero Informático egresado el año 2024 de DuocUc de Viña del Mar,con conocimiento del ciclo de vida del desarrollo de software y comprensión de las tecnologías necesarias para el desarrollo y la implementación de aplicaciones altamente disponibles y escalables
+## Me llamo Matias Sandoval, Ingeniero Informático Titulado y egreasado el año 2024,con conocimiento del ciclo de vida del desarrollo de software y comprensión de las tecnologías necesarias para el desarrollo y la implementación de aplicaciones altamente disponibles y escalables
 
 # **Sobre mi** 😮❓
 
